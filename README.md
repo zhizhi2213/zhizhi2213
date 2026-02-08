@@ -108,11 +108,11 @@ IntelliJ IDEA            26 hrs 50 mins      ███████████�
 Trae                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 💻 Operating System: 
-Windows                  28 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  28 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/02/2026 01:14:53 UTC
+ Last Updated on 08/02/2026 01:52:43 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
