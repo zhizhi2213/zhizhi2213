@@ -56,11 +56,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/zhizhi2213/zhizhi2213/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Jan 26 - ['java语法糖详解'](https://zhizhi2213.github.io/2026/01/26/java%E8%AF%AD%E6%B3%95%E7%B3%96%E8%AF%A6%E8%A7%A3/)
-- Jan 26 - ['Trae-Java环境配置'](https://zhizhi2213.github.io/2026/01/26/Trae-Java%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/)
-- Jan 25 - ['为什么Java中只有值传递？'](https://zhizhi2213.github.io/2026/01/25/%E4%B8%BA%E4%BB%80%E4%B9%88Java%E4%B8%AD%E5%8F%AA%E6%9C%89%E5%80%BC%E4%BC%A0%E9%80%92%EF%BC%9F/)
-- Jan 23 - [首页美化教程'](https://zhizhi2213.github.io/2026/01/23/%E9%A6%96%E9%A1%B5%E7%BE%8E%E5%8C%96%E6%95%99%E7%A8%8B/)
-- Jan 22 - [如何创建GitHub个人网站](https://zhizhi2213.github.io/2026/01/22/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BAGitHub%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/)
+- Feb 09 - [HashMap源码分析](https://zhizhi2213.github.io/posts/HashMap源码分析/)
+- Jan 26 - [java语法糖详解](https://zhizhi2213.github.io/posts/java语法糖详解/)
+- Jan 26 - [Trae-Java环境配置](https://zhizhi2213.github.io/posts/Trae-Java环境配置/)
+- Jan 26 - [欢迎来到我的博客](https://zhizhi2213.github.io/posts/欢迎来到我的博客/)
+- Jan 25 - [为什么Java中只有值传递？](https://zhizhi2213.github.io/posts/为什么Java中只有值传递/)
 <!-- feed end -->
 
 </td></tr>
