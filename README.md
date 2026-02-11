@@ -56,11 +56,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/zhizhi2213/zhizhi2213/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Feb 10 - [Spring IOC与AOP详解](https://zhizhi2213.github.io/posts/Spring-IOC与AOP详解/)
 - Feb 09 - [Spring源码中的设计模式详解](https://zhizhi2213.github.io/posts/Spring源码中的设计模式详解/)
 - Feb 09 - [HashMap源码分析](https://zhizhi2213.github.io/posts/HashMap源码分析/)
 - Jan 26 - [java语法糖详解](https://zhizhi2213.github.io/posts/java语法糖详解/)
 - Jan 26 - [Trae-Java环境配置](https://zhizhi2213.github.io/posts/Trae-Java环境配置/)
-- Jan 26 - [欢迎来到我的博客](https://zhizhi2213.github.io/posts/欢迎来到我的博客/)
 <!-- feed end -->
 
 </td></tr>
