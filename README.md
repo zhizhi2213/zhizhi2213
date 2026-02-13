@@ -73,21 +73,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-🌆 Daytime                157 commits         ███████████░░░░░░░░░░░░░░   44.48 % 
-🌃 Evening                140 commits         ██████████░░░░░░░░░░░░░░░   39.66 % 
+🌞 Morning                56 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+🌆 Daytime                162 commits         ███████████░░░░░░░░░░░░░░   45.13 % 
+🌃 Evening                140 commits         ██████████░░░░░░░░░░░░░░░   39.00 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   63 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Tuesday                  86 commits          ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-Wednesday                67 commits          █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Thursday                 43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Friday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Saturday                 11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Sunday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Monday                   63 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Tuesday                  86 commits          ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+Wednesday                67 commits          █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Thursday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Friday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Saturday                 11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Sunday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 ```
 
 
@@ -97,22 +97,22 @@ Sunday                   48 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     25 hrs 25 mins      █████████████████████░░░░   84.86 % 
-Markdown                 1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-HTML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-XML                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Java                     21 hrs 5 mins       ██████████████████░░░░░░░   72.28 % 
+Markdown                 2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+HTML                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+XML                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-IntelliJ IDEA            26 hrs 12 mins      ██████████████████████░░░   87.48 % 
-Trae                     3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+IntelliJ IDEA            22 hrs 14 mins      ███████████████████░░░░░░   76.22 % 
+Trae                     6 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
 
 💻 Operating System: 
-Windows                  29 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/02/2026 01:21:42 UTC
+ Last Updated on 13/02/2026 01:24:40 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
