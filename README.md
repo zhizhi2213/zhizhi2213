@@ -97,22 +97,17 @@ Sunday                   48 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-Markdown                 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-HTML                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-JavaScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Git Config               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Trae                     3 hrs 35 mins       ████████████████░░░░░░░░░   63.82 % 
-IntelliJ IDEA            2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.18 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 hrs 37 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/02/2026 01:21:49 UTC
+ Last Updated on 20/02/2026 01:17:44 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
