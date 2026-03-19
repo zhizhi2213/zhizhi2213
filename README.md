@@ -97,22 +97,22 @@ Sunday                   48 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     7 hrs 48 mins       ████████████████████████░   95.10 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Java                     7 hrs 33 mins       ████████████████████████░   94.88 % 
+Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 51 mins       ████████████████████████░   95.65 % 
-Trae                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+IntelliJ IDEA            7 hrs 36 mins       ████████████████████████░   95.51 % 
+Trae                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 💻 Operating System: 
-Windows                  8 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/03/2026 01:23:45 UTC
+ Last Updated on 19/03/2026 01:24:02 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
