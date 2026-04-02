@@ -97,21 +97,21 @@ Sunday                   48 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     20 hrs 53 mins      ███████████████████████░░   90.30 % 
-Python                   1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Java                     19 hrs 45 mins      ██████████████████████░░░   86.51 % 
+Python                   1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+YAML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-IntelliJ IDEA            23 hrs 7 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            22 hrs 49 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  22 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/04/2026 01:49:53 UTC
+ Last Updated on 02/04/2026 01:26:00 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
