@@ -70,8 +70,47 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 18/04/2026 01:28:20 UTC
+```text
+🌞 Morning                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+🌆 Daytime                170 commits         ███████████░░░░░░░░░░░░░░   45.70 % 
+🌃 Evening                142 commits         ██████████░░░░░░░░░░░░░░░   38.17 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Tuesday                  94 commits          ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+Wednesday                67 commits          █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Thursday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Friday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Saturday                 15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Sunday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Java                     7 hrs 3 mins        ████████████████████░░░░░   79.56 % 
+YAML                     1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🔥 Editors: 
+IntelliJ IDEA            8 hrs 52 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  8 hrs 52 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 19/04/2026 01:53:25 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
