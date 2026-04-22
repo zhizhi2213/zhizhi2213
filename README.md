@@ -97,18 +97,17 @@ Sunday                   48 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 6 mins        ██████████████████████░░░   88.36 % 
-YAML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 23 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/04/2026 01:50:42 UTC
+ Last Updated on 22/04/2026 01:49:30 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
