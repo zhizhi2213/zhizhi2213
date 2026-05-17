@@ -56,11 +56,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/zhizhi2213/zhizhi2213/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- May 16 - [zoxide & fzf 安装与使用指南（终端提效神器）](https://zhizhi2213.github.io/static/posts/zoxide-fzf-安装与使用指南-终端提效神器/)
 - May 06 - [IDEA快捷键（Mac）](https://zhizhi2213.github.io/static/posts/IDEA快捷键-Mac/)
 - Feb 11 - [MyBatis源码深度解析](https://zhizhi2213.github.io/static/posts/MyBatis源码深度解析/)
 - Feb 11 - [ThreadLocal异步场景问题解析](https://zhizhi2213.github.io/static/posts/ThreadLocal异步场景问题解析/)
 - Feb 10 - [Spring IOC与AOP详解](https://zhizhi2213.github.io/static/posts/Spring-IOC与AOP详解/)
-- Feb 09 - [Spring源码中的设计模式详解](https://zhizhi2213.github.io/static/posts/Spring源码中的设计模式详解/)
 <!-- feed end -->
 
 </td></tr>
