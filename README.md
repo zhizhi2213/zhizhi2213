@@ -73,21 +73,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                45 commits          ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-🌆 Daytime                55 commits          ███████░░░░░░░░░░░░░░░░░░   29.10 % 
-🌃 Evening                75 commits          ██████████░░░░░░░░░░░░░░░   39.68 % 
-🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+🌞 Morning                45 commits          ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+🌆 Daytime                56 commits          ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+🌃 Evening                75 commits          ██████████░░░░░░░░░░░░░░░   39.27 % 
+🌙 Night                  15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Tuesday                  36 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Wednesday                46 commits          ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Thursday                 43 commits          ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-Friday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Saturday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Sunday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Tuesday                  36 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Wednesday                46 commits          ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+Thursday                 44 commits          ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+Friday                   27 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Saturday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Sunday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 ```
 
 
@@ -97,22 +97,20 @@ Sunday                   11 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     9 hrs 12 mins       █████████████████████░░░░   82.29 % 
-Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-XML                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Java                     1 hr 30 mins        ████████████████████████░   96.59 % 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-IntelliJ IDEA            10 hrs 17 mins      ███████████████████████░░   92.08 % 
-Claude Code              53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+IntelliJ IDEA            1 hr 34 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/05/2026 02:33:09 UTC
+ Last Updated on 22/05/2026 02:34:41 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
