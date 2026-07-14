@@ -71,21 +71,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                146 commits         ████████░░░░░░░░░░░░░░░░░   31.13 % 
-🌆 Daytime                172 commits         █████████░░░░░░░░░░░░░░░░   36.67 % 
-🌃 Evening                100 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-🌙 Night                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+🌞 Morning                148 commits         ████████░░░░░░░░░░░░░░░░░   31.16 % 
+🌆 Daytime                176 commits         █████████░░░░░░░░░░░░░░░░   37.05 % 
+🌃 Evening                100 commits         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+🌙 Night                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Tuesday                  79 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Wednesday                82 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Thursday                 99 commits          █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Friday                   102 commits         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-Saturday                 30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Sunday                   12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Monday                   71 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Tuesday                  79 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Wednesday                82 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Thursday                 99 commits          █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Friday                   102 commits         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Saturday                 30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Sunday                   12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 
 
@@ -95,17 +95,19 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     1 min               ██████████████████████░░░   86.54 % 
+Java                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2026 01:56:47 UTC
+ Last Updated on 14/07/2026 01:44:06 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
